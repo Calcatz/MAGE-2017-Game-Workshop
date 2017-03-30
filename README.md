@@ -1,5 +1,5 @@
 # MAGE-2017-Game-Workshop
-This is the finished project of MAGE 2017 Game Workshop about making an FPS Multiplayer game using Unity3D.
+This is the finished project of MAGE 2017 Game Workshop about making an FPS Multiplayer game using Unity Multiplayer.
 
 This game features:
 -Character Movement (FPS)
